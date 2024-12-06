@@ -78,6 +78,7 @@ form i {
   font-weight: bold;
   font-size: 1.4rem;
   text-align: center;
+  color: blueviolet;
 }
 
 form button {
@@ -94,4 +95,5 @@ h2 {
   padding: 0.5rem;
   background-color: lightsalmon;
   border-radius: 5px;
+  font-weight: bold;
 }
