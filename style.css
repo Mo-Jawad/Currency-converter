@@ -8,7 +8,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-color: orange;
+  background-color: rgb(233, 189, 109);
 }
 
 .container {
@@ -76,6 +76,8 @@ form i {
 .msg {
   margin: 2rem 0;
   font-weight: bold;
+  font-size: 1.4rem;
+  text-align: center;
 }
 
 form button {
@@ -84,4 +86,12 @@ form button {
   color: #fff;
   font-size: 1.2rem;
   cursor: pointer;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  padding: 0.5rem;
+  background-color: lightsalmon;
+  border-radius: 5px;
 }
